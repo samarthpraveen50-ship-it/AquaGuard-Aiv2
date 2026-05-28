@@ -1,0 +1,4 @@
+timestamp,water_usage_liters,tank_level_percent,leak_flag
+2026-05-28 08:00,1200,90,0
+2026-05-28 09:00,1350,88,0
+2026-05-28 10:00,2200,85,1
